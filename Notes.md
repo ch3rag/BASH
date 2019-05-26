@@ -38,9 +38,9 @@ bash.bash_logout  hosts                nanorc
 </font>
 
 #### Paths
-~  _is a shortcut for your home directory.  
-*.* _is a reference to your current directory.  
-*..* _is a reference to the parent directory.  
+~  _is a shortcut for your home directory._  
+*.* _is a reference to your current directory._  
+*..* _is a reference to the parent directory._  
 
 ```bash
 $ ls ~/etc              LIST ETC IN HOME DIRECTORY
