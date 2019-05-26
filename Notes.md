@@ -48,8 +48,8 @@ $ ls ./etc              LIST ETC IN CURRENT DIRECTORY
 $ ls /home/CHIRAG/etc   LIST ETC BY PROVIDING ABSOLUTE PATH
 ```
 
-###cd
-######change directory
+### cd
+###### change directory
 ```bash
 $ cd \                  TO ROOT
 $ cd ../../             TO PARENT OF THE PARENT
