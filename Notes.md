@@ -38,9 +38,9 @@ bash.bash_logout  hosts                nanorc
 </font>
 
 #### Paths
-~  _is a shortcut for your home directory._
-*.* _is a reference to your current directory._
-*..* _is a reference to the parent directory_
+~  _is a shortcut for your home directory._  
+*.* _is a reference to your current directory._  
+*..* _is a reference to the parent directory._  
 
 ```bash
 $ ls ~/etc              LIST ETC IN HOME DIRECTORY
@@ -48,8 +48,8 @@ $ ls ./etc              LIST ETC IN CURRENT DIRECTORY
 $ ls /home/CHIRAG/etc   LIST ETC BY PROVIDING ABSOLUTE PATH
 ```
 
-###cd
-######change directory
+### cd
+###### change directory
 ```bash
 $ cd \                  TO ROOT
 $ cd ../../             TO PARENT OF THE PARENT
