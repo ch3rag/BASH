@@ -4,5 +4,5 @@
 
 ---
 ### Audit Log
-* [X] Added Command Note.pdf And Programs Folder
+* [X] Added Command Notes.pdf And Programs Folder
 ---
