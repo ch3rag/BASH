@@ -17,4 +17,3 @@ do
 done
 
 printf "Octal Equivalent: %s\n" $oct
-

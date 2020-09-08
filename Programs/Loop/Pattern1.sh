@@ -20,4 +20,3 @@ do
 	echo
 	i=$(($i + 1))
 done
-

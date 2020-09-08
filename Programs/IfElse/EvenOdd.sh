@@ -9,4 +9,3 @@ else
 	echo "Odd Number"
 fi
 ---
-## Loops

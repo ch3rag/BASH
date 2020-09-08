@@ -10,5 +10,3 @@ done
 
 printf "Factorial: "
 echo $factorial
-
-

@@ -57,6 +57,3 @@ $ cd /home/CHIRAG/test  TO ABSOLUTE LOCATION
 $ cd ..                 TO PARENT DIRECTORY
 $ cd documents          RO DOCUMENT DIRECTORY LOCATED IN CURRENT DIRECTORY
 ```
-
-
-

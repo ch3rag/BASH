@@ -20,4 +20,3 @@ do
 	echo
 	rows=$(($rows - 1))
 done
-

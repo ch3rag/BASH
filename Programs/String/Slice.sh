@@ -19,4 +19,3 @@ fi
 
 
 echo "Slice: $slice"
-

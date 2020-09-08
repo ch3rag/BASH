@@ -17,4 +17,3 @@ do
 done
 
 printf "Hexadecimal Equivalent: %s\n" $hex
-

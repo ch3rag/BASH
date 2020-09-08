@@ -25,4 +25,3 @@ echo "Alphabets: $alpha"
 echo "Numbers: $num"
 echo "Whitespaces: $whitespace"
 echo "Special Characters: $special"
-

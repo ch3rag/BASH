@@ -11,5 +11,3 @@ do
 done
 
 printf "Sum Of Digits: %d\n" $sum
-
-

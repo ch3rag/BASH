@@ -2,6 +2,7 @@
 
 printf "Enter A Number: "
 read number
+
 if [ $number -gt 0 ]
 then
 	echo "Positive Number"
@@ -11,4 +12,3 @@ then
 else
 	echo "Zero"
 fi
-

@@ -21,4 +21,3 @@ do
 done
 
 echo "Result: $result"
-

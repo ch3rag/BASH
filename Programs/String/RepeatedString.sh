@@ -9,4 +9,5 @@ for ((i = 0; i < $times; i++))
 do
     printf "%s%s" "$str" "$delimiter"
 done
+
 echo

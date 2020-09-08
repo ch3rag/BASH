@@ -11,4 +11,3 @@ do
 done
 
 printf "Binary Equivalent: %s\n" $binary
-

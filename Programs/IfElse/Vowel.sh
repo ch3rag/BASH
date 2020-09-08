@@ -1,4 +1,5 @@
 # Program To Check Whether The Alphabet Is Vowel Or Consonant
+
 read -p "Enter An Alphabet: " -n1 alpha
 echo
 
@@ -11,7 +12,3 @@ then
 else
 	echo "Not An Alphabet"
 fi	
-
-
-
-

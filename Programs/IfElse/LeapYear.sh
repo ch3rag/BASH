@@ -8,4 +8,3 @@ then
 else
 	echo "Not A Leap  Year"
 fi
-

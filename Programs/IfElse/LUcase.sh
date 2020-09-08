@@ -10,8 +10,4 @@ then
 	echo "Lowercase Alphabet"
 else
 	echo "Not An Alphabet"
-fi	
-
-
-
-
+fi

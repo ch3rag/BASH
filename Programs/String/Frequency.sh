@@ -15,4 +15,3 @@ do
 done
 
 echo "Frequency Of Searched String Is: $count"
-
