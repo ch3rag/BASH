@@ -1,4 +1,4 @@
-#Program to check whether strings passed are equal or not
+# Program to check whether strings passed are equal or not
 
 function_compare() {
     string1="$1"

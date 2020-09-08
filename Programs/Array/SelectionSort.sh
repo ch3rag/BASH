@@ -1,4 +1,4 @@
- # Program To Perform Selection Sort
+# Program To Perform Selection Sort
  
 selectionSort() {
     ar=($*)

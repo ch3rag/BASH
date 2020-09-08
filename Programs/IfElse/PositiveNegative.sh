@@ -1,4 +1,4 @@
-# Program To Checl Whether A Number A Number Is Positive, Negative Or Zero
+# Program To Check Whether A Number A Number Is Positive, Negative Or Zero
 
 printf "Enter A Number: "
 read number
