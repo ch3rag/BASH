@@ -1,4 +1,15 @@
-# Program To Count Total Number Of Alphabets and Consonants In A String
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                         File Name: Vowel.sh                          #
+#                Creation Date: April 16, 2020 02:41 PM                #
+#              Last Updated: September 10, 2020 01:28 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#   Program To Count Total Number Of Alphabets and Consonants In A     #
+#                               String                                 #
+########################################################################
 
 read -p "Enter A String: " str
 vowels=0

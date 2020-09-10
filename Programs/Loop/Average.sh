@@ -1,4 +1,14 @@
-# Program To Input N Numbers And Calculate Their Average
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                        File Name: Average.sh                         #
+#                Creation Date: April 13, 2020 12:31 PM                #
+#              Last Updated: September 10, 2020 01:19 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#        Program To Input N Numbers And Calculate Their Average        #
+########################################################################
 
 flag=1
 length=0

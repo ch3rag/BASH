@@ -1,4 +1,14 @@
-# Program To Determine Type Of Triangle
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                        File Name: Triangle.sh                        #
+#                Creation Date: April 12, 2020 09:56 PM                #
+#              Last Updated: September 10, 2020 01:18 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#                Program To Determine Type Of Triangle                 #
+########################################################################
 
 printf "Enter side A : "
 read A

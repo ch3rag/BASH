@@ -1,4 +1,14 @@
-# Program To Compare Two Strings
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                        File Name: Compare.sh                         #
+#                Creation Date: April 14, 2020 05:48 PM                #
+#              Last Updated: September 10, 2020 01:25 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#                    Program To Compare Two Strings                    #
+########################################################################
 
 read -p "Enter First String: " str1
 read -p "Enter Second String: " str2

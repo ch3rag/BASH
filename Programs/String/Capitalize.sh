@@ -1,4 +1,14 @@
-# Program To Capitalize Each Word Of The String
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                       File Name: Capitalize.sh                       #
+#                Creation Date: April 14, 2020 03:06 PM                #
+#              Last Updated: September 10, 2020 01:25 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#            Program To Capitalize Each Word Of The String             #
+########################################################################
 
 read -p "Enter A String: " str
 len=${#str}

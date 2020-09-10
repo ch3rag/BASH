@@ -1,4 +1,14 @@
-# Function To Print Pascal's Trianle N Rows
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                     File Name: PascalTriangle.sh                     #
+#                Creation Date: April 17, 2020 05:17 PM                #
+#              Last Updated: September 10, 2020 01:16 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#              Function To Print Pascal's Triangle N Rows              #
+########################################################################
 
 factorial() {
     if [ $1 -eq 0 ]

@@ -1,4 +1,14 @@
-# Program To Find Greatest Of 3 Numbers
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                        File Name: Greater3.sh                        #
+#                Creation Date: April 12, 2020 09:56 PM                #
+#              Last Updated: September 10, 2020 01:17 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#                Program To Find Greatest Of 3 Numbers                 #
+########################################################################
 
 printf "Enter A : "
 read A

@@ -1,4 +1,14 @@
-# Program To Convert A Decimal Number Into Octal
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                     File Name: DecimalToOctal.sh                     #
+#                Creation Date: April 13, 2020 04:31 PM                #
+#              Last Updated: September 10, 2020 01:20 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#            Program To Convert A Decimal Number Into Octal            #
+########################################################################
 
 read -p "Enter A Number: " number
 oct=""

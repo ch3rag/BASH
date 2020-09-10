@@ -1,4 +1,14 @@
-# Program To Check Whether A Number Is Even Or Odd
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                        File Name: EvenOdd.sh                         #
+#                Creation Date: April 13, 2020 04:24 PM                #
+#              Last Updated: September 10, 2020 01:16 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#           Program To Check Whether A Number Is Even Or Odd           #
+########################################################################
 
 printf "Enter A Number: "
 read number

@@ -1,4 +1,16 @@
-# Program To Input Radius Of A Circle And Print It's Circumference And Area
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                         File Name: Circle.sh                         #
+#                Creation Date: April 13, 2020 09:54 PM                #
+#              Last Updated: September 10, 2020 01:20 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#  Program To Input Radius Of A Circle And Print It's Circumference    #
+#                              And Area                                #
+########################################################################
+
 
 read -p "Enter Radius: " radius
 

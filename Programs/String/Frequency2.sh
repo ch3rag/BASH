@@ -1,4 +1,14 @@
-# Program To Find The Frequency Of Each Alphabet In  A String
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                       File Name: Frequency2.sh                       #
+#                Creation Date: April 16, 2020 04:46 PM                #
+#              Last Updated: September 10, 2020 01:25 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#     Program To Find The Frequency Of Each Alphabet In  A String      #
+########################################################################
 
 read -p "Enter A String: " str
 str=${str^^}

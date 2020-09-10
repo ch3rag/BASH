@@ -1,4 +1,16 @@
-# Program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. 
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                         File Name: Grade.sh                          #
+#                Creation Date: April 13, 2020 11:40 AM                #
+#              Last Updated: September 10, 2020 01:17 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#     Program to input marks of five subjects Physics, Chemistry,      #
+#                 Biology, Mathematics and Computer.                   #
+########################################################################
+
 # Calculate percentage and grade according to following:
 # Percentage >= 90% : Grade A
 # Percentage >= 80% : Grade B
@@ -6,6 +18,7 @@
 # Percentage >= 60% : Grade D
 # Percentage >= 40% : Grade E
 # Percentage < 40% : Grade F
+
 read -p "Enter Marks In Physics: " physics
 read -p "Enter Marks In Chemistry: " chemistry
 read -p "Enter Marks In Biology: " biology

@@ -1,4 +1,14 @@
-# Program to check whether strings passed are equal or not
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                     File Name: String Compare.sh                     #
+#                Creation Date: April 16, 2020 05:25 PM                #
+#              Last Updated: September 10, 2020 01:14 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#       Program to check whether strings passed are equal or not       #
+########################################################################
 
 function_compare() {
     string1="$1"

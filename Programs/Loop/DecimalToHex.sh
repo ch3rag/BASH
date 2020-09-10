@@ -1,4 +1,14 @@
-# Program To Convert A Decimal Number Into Hexadecimal
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                      File Name: DecimalToHex.sh                      #
+#                Creation Date: April 13, 2020 04:27 PM                #
+#              Last Updated: September 10, 2020 01:20 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#         Program To Convert A Decimal Number Into Hexadecimal         #
+########################################################################
 
 read -p "Enter A Number: " number
 hex=""

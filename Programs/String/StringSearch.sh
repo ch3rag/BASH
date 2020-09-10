@@ -1,4 +1,14 @@
-# Program To Search A String In A Given String
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                      File Name: StringSearch.sh                      #
+#                Creation Date: April 16, 2020 02:50 PM                #
+#              Last Updated: September 10, 2020 01:28 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#             Program To Search A String In A Given String             #
+########################################################################
 
 read -p "Enter A String: " str
 read -p "Enter String To Be Searched: " search

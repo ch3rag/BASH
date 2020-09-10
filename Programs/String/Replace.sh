@@ -1,5 +1,15 @@
-# Program To Replace All Occurances Of A String Or Character By
-# Another String Or Character In A Given String
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                        File Name: Replace.sh                         #
+#                Creation Date: April 16, 2020 03:14 PM                #
+#              Last Updated: September 10, 2020 01:26 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#    Program To Replace All Occurances Of A String Or Character By     #
+#            Another String Or Character In A Given String             #
+########################################################################
 
 read -p "Enter A String: " str
 read -p "Enter String To Be Searched: " search

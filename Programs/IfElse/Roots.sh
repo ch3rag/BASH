@@ -1,4 +1,14 @@
-# Program To Calculate The Nature Of Roots Of A Quadratic Equation
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                         File Name: Roots.sh                          #
+#                Creation Date: April 12, 2020 09:56 PM                #
+#              Last Updated: September 10, 2020 01:18 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#   Program To Calculate The Nature Of Roots Of A Quadratic Equation   #
+########################################################################
 
 read -p "Enter The Value Of a: " a
 read -p "Enter The Value Of b: " b

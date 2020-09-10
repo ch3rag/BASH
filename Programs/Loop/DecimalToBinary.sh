@@ -1,4 +1,14 @@
-# Program To Convert A Decimal Number Into Binary
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                    File Name: DecimalToBinary.sh                     #
+#                Creation Date: April 12, 2020 09:56 PM                #
+#              Last Updated: September 10, 2020 01:20 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#           Program To Convert A Decimal Number Into Binary            #
+########################################################################
 
 read -p "Enter A Number: " number
 binary=""

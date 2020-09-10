@@ -1,4 +1,15 @@
-# Program To Count Number Of Alphabets, Numbers, Whitespace & Special Character In A String
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                         File Name: Count.sh                          #
+#                Creation Date: April 15, 2020 03:53 PM                #
+#              Last Updated: September 10, 2020 01:25 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+# Program To Count Number Of Alphabets, Numbers, Whitespace & Special  #
+#                        Character In A String                         #
+########################################################################
 
 read -p "Enter A String: " str
 len=${#str}

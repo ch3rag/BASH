@@ -1,5 +1,15 @@
-# Program To Check Whether A Number Is Strong Number Or Not
-# 1! + 4! + 5! = 145
+########################################################################
+#                     Author: Bharat Singh Rajput                      #
+#                      File Name: StrongNumber.sh                      #
+#                Creation Date: April 13, 2020 04:40 PM                #
+#              Last Updated: September 10, 2020 01:24 PM               #
+#                     Source Language: shellscript                     #
+#            Repository: https://github.com/ch3rag/BASH.git            #
+#                                                                      #
+#                       --- Code Description ---                       #
+#   Program To Check Whether A Number Is Strong Number Or Not : 1! +   #
+#                            4! + 5! = 145                             #
+########################################################################
 
 read -p "Enter A Number: " number
 backup=$number
