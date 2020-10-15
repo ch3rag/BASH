@@ -1,0 +1,5 @@
+NthPower() {
+	echo $(($1 * $(NthPower $1 $(($2 - 1) )  ) ))
+}
+
+NthPower 2 8
